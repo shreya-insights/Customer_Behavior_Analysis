@@ -20,7 +20,9 @@ The dataset contains customer and transaction-related information such as:
 
 The dataset was analyzed to identify trends, customer behavior, and business insights.
 
----
+## Dataset Used
+
+- <a href="https://github.com/shreya-insights/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Hotel Chain (Raw Dataset)</a> 
 
 ## Tools & Technologies Used
 
