@@ -28,11 +28,8 @@ The dataset was analyzed to identify trends, customer behavior, and business ins
 - Python
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 
 ### Database
-- PostgreSQL
 - MySQL
 - SQL Server
 
@@ -64,8 +61,6 @@ Created visualizations such as:
 - Bar charts
 - Pie charts
 - Histograms
-- Heatmaps
-- Line charts
 
 ### 3. Data Cleaning
 - Removed duplicates
@@ -75,7 +70,7 @@ Created visualizations such as:
 - Created derived columns where required
 
 ### 4. SQL Analysis
-Performed SQL analysis using PostgreSQL/MySQL/SQL Server:
+Performed SQL analysis using MySQL:
 - Aggregate functions
 - Joins
 - Group By & Having
@@ -139,4 +134,4 @@ The project successfully transformed raw data into actionable insights using ana
 1. Install required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy 
