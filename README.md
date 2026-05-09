@@ -22,7 +22,7 @@ The dataset was analyzed to identify trends, customer behavior, and business ins
 
 ## Dataset Used
 
-- <a href="https://github.com/shreya-insights/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Hotel Chain (Raw Dataset)</a> 
+- <a href="https://github.com/shreya-insights/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Customer Behavior Dataset (Raw Dataset)</a> 
 
 ## Tools & Technologies Used
 
